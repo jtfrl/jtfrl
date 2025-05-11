@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Lissajous curve represented in a 3D graph]()
-
 
 <div align="center">
   <img src="https://lv.qizhen.xyz/en/assets/images/z010-19045c73182c3646e2ffa91431b4604f.gif" alt="Lissajous curve represented in a 3D graph">
