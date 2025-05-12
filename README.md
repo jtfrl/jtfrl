@@ -37,8 +37,8 @@ int main(){
   return 0;
 } 
 ```
-✨✨✨✨✨✨✨✨✨✨ EN ✨✨✨✨✨✨✨✨✨✨
+                                                          ✨✨✨✨✨✨✨✨✨✨ EN ✨✨✨✨✨✨✨✨✨✨
 
 This is me, Jefferson Tafarel. I'm undergraduated in Journalism (so I'm a journalist) and now my goal is to upgrade my abilities in programming, focusing in data science. Currently, I have kinda of a 'crush' for computer science too — numbers/math in general interests me a lot 😅
 
-I'm also an undergraduate in Information Tech at Federal Univ of Rio Grande do Norte (UFRN) in Brazil, more specifically at Metrópole Digital Institute (IMD). My favorite gym exercise is bayesian curl, I love cats, and listen to one of these three bands daily: Fontaines D.C., Boogarins and Interpol (by the way: my name has a soccer player's name, but I don't like soccer at all). Even though Python is my favorite lang, C++ is little by little catching me up (_see the code above_). 
+I'm also an undergraduate in Information Tech at Federal Univ of Rio Grande do Norte (UFRN) in Brazil, more specifically at Metrópole Digital Institute (IMD). My favorite gym exercise is bayesian curl, I love cats, and listen to one of these three bands daily: Fontaines D.C., Boogarins and Interpol (by the way: my name has a soccer player's name, but I don't like soccer at all). Even though Python is my favorite lang, C++ is little by little beckoning me. (_see the code above_). 
