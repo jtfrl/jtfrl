@@ -37,7 +37,7 @@ int main(){
   return 0;
 } 
 ```
-                                                          ✨✨✨✨✨✨✨✨✨✨ EN ✨✨✨✨✨✨✨✨✨✨
+═╦╠╩   ╩   ╩   ╩   ╩   ╩   ╩   ╩   ╩   ╩   ╩   ╩   ╩       ═╦╠╩═╦╠╩═╦╠╩═╦╠╩   EN   ═╦╠╩═╦╠╩═╦╠╩═╦╠╩      ╩   ╩   ╩   ╩   ╩   ╩    ╩   ╩   ╩   ╩   ╩   ╩    ╠╩═╦
 
 This is me, Jefferson Tafarel. I'm undergraduated in Journalism (so I'm a journalist) and now my goal is to upgrade my abilities in programming, focusing in data science. Currently, I have kinda of a 'crush' for computer science too — numbers/math in general interests me a lot 😅
 
