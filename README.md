@@ -23,11 +23,13 @@ Here are some ideas to get you started:
 <table width="100%">
 <br><p align="center">Everything here is Open Source!<br><br>
 <br><p align="center"><b>Find me at:</b><br><br>
-<div style="text-align: center;">
+  
+<p align="center">
 [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/jefferson-tafarel-687426163/)
 [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/spXNGEaz)
 ![Visits](https://komarev.com/ghpvc/?username=jtfrl&color=red)
-</div>
+</p>
+  
 </p>
 
 _english below_ 
