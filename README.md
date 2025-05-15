@@ -32,6 +32,8 @@ Here are some ideas to get you started:
     <img src="https://komarev.com/ghpvc/?username=jtfrl&color=red" alt="Profile Views">
   </p>
 </div>
+
+
 _english below_ 
 
 Esse sou eu, Jefferson Tafarel. Sou jornalista de formação e busco agora aprimorar minhas habilidades em programação, com foco em ciência de dados. No momento, estou 'namorando' meu interesse em ciência da computação também — números/matemática no geral me atraem bastante 😅
