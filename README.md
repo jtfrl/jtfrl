@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 <br><p align="center"><b>Find me at:</b><br><br>
   
 <p align="center">
-[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/jefferson-tafarel-687426163/)
-[![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/spXNGEaz)
-![Visits](https://komarev.com/ghpvc/?username=jtfrl&color=red)
+  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/jefferson-tafarel-687426163/)
+  [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/spXNGEaz)
+  ![Visits](https://komarev.com/ghpvc/?username=jtfrl&color=red)
 </p>
-  
+
 </p>
 
 _english below_ 
