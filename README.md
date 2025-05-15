@@ -19,17 +19,13 @@ Here are some ideas to get you started:
   <img src="https://lv.qizhen.xyz/en/assets/images/z010-19045c73182c3646e2ffa91431b4604f.gif" alt="Lissajous curve represented in a 3D graph">
 </div>
 
-<p>
-<table width="100%">
-<br><p align="center">Everything here is Open Source!<br><br>
-<br><p align="center"><b>Find me at:</b><br><br>
-  
 <p align="center">
+  <b>Everything here is Open Source!</b><br><br>
+  <b>Find me at:</b><br><br>
+  
   [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/jefferson-tafarel-687426163/)
   [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/spXNGEaz)
   ![Visits](https://komarev.com/ghpvc/?username=jtfrl&color=red)
-</p>
-
 </p>
 
 _english below_ 
