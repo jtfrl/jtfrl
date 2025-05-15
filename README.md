@@ -19,6 +19,17 @@ Here are some ideas to get you started:
   <img src="https://lv.qizhen.xyz/en/assets/images/z010-19045c73182c3646e2ffa91431b4604f.gif" alt="Lissajous curve represented in a 3D graph">
 </div>
 
+
+<table width="100%">
+
+Find me at:
+<br><p align="center">Everything here is Open Source!<br><br>
+[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/jefferson-tafarel-687426163/)
+[![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/spXNGEaz)
+![Visits](https://komarev.com/ghpvc/?username=jtfrl&color=red)
+
+</p>
+
 _english below_ 
 
 Esse sou eu, Jefferson Tafarel. Sou jornalista de formação e busco agora aprimorar minhas habilidades em programação, com foco em ciência de dados. No momento, estou 'namorando' meu interesse em ciência da computação também — números/matemática no geral me atraem bastante 😅
@@ -37,7 +48,7 @@ int main(){
   return 0;
 } 
 ```
-═╦╠╩   ╩   ╩   ╩   ╩   ╩   ╩   ╩   ╩   ╩   ╩   ╩   ╩       ═╦╠╩═╦╠╩═╦╠╩═╦╠╩   EN   ═╦╠╩═╦╠╩═╦╠╩═╦╠╩      ╩   ╩   ╩   ╩   ╩   ╩    ╩   ╩   ╩   ╩   ╩   ╩    ╠╩═╦
+ ## MINIBIO (EN) 
 
 This is me, Jefferson Tafarel. I'm undergraduated in Journalism (so I'm a journalist) and now my goal is to upgrade my abilities in programming, focusing in data science. Currently, I have kinda of a 'crush' for computer science too — numbers/math in general interests me a lot 😅
 
