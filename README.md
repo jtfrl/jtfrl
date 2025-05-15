@@ -19,15 +19,19 @@ Here are some ideas to get you started:
   <img src="https://lv.qizhen.xyz/en/assets/images/z010-19045c73182c3646e2ffa91431b4604f.gif" alt="Lissajous curve represented in a 3D graph">
 </div>
 
-<p align="center">
-  <b>Everything here is Open Source!</b><br><br>
-  <b>Find me at:</b><br><br>
-  
-  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/jefferson-tafarel-687426163/)
-  [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/spXNGEaz)
-  ![Visits](https://komarev.com/ghpvc/?username=jtfrl&color=red)
-</p>
-
+<div align="center">
+  <p><b>Everything here is Open Source!</b></p>
+  <p><b>Find me at:</b></p>
+  <p>
+    <a href="https://www.linkedin.com/in/jefferson-tafarel-687426163/">
+      <img src="https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue" alt="LinkedIn">
+    </a>
+    <a href="https://mailhide.io/e/spXNGEaz">
+      <img src="https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=jtfrl&color=red" alt="Profile Views">
+  </p>
+</div>
 _english below_ 
 
 Esse sou eu, Jefferson Tafarel. Sou jornalista de formação e busco agora aprimorar minhas habilidades em programação, com foco em ciência de dados. No momento, estou 'namorando' meu interesse em ciência da computação também — números/matemática no geral me atraem bastante 😅
