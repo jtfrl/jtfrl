@@ -19,7 +19,8 @@ Here are some ideas to get you started:
   <img src="https://lv.qizhen.xyz/en/assets/images/z010-19045c73182c3646e2ffa91431b4604f.gif" alt="Lissajous curve represented in a 3D graph">
 </div>
 
-<div align="center">
+<div style="display: flex;">
+  <div style="flex 1; background: #000fff;">
   <p><b>Everything here is Open Source!</b></p>
   <p><b>Find me at:</b></p>
   <p>
@@ -31,8 +32,16 @@ Here are some ideas to get you started:
     </a>
     <img src="https://komarev.com/ghpvc/?username=jtfrl&color=red" alt="Profile Views">
   </p>
+  </div>
+  <div style="flex 1; background: #000fff;">
+    <p align="center">
+    <a href="https://github.com/jtfrl">
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jtfrl&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jtfrl&layout=compact&langs_count=8&theme=algolia"/>
+    </a>
+    </p>
+  </div>
 </div>
-
 
 _english below_ 
 
