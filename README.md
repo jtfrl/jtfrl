@@ -21,17 +21,21 @@ Here are some ideas to get you started:
 
 <div style="display: flex;">
   <div style="flex 1; background: #000fff;">
-  <p><b>Everything here is Open Source!</b></p>
-  <p><b>Find me at:</b></p>
-  <p>
-    <a href="https://www.linkedin.com/in/jefferson-tafarel-687426163/">
-      <img src="https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue" alt="LinkedIn">
-    </a>
-    <a href="https://mailhide.io/e/spXNGEaz">
-      <img src="https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=jtfrl&color=red" alt="Profile Views">
-  </p>
+    <div align="center">
+      <p><b>Everything here is Open Source!</b></p>
+      <p><b>Find me at:</b></p>
+      <p>
+    </div>
+    <div align="center">
+      <a href="https://www.linkedin.com/in/jefferson-tafarel-687426163/">
+        <img src="https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue" alt="LinkedIn">
+      </a>
+      <a href="https://mailhide.io/e/spXNGEaz">
+        <img src="https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+      </a>
+      <img src="https://komarev.com/ghpvc/?username=jtfrl&color=red" alt="Profile Views">
+    </p>
+    </div>
   </div>
   <div style="flex 1; background: #000fff;">
     <p align="center">
