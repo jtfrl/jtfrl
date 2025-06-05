@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-<style>
     .container {
       display: flex;
     }
@@ -26,7 +25,7 @@ Here are some ideas to get you started:
       margin: 10px;
       background-color: white;
     }
-  </style>
+
 
   
 <div align="center">
