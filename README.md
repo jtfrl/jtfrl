@@ -16,12 +16,18 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
+     <style>
+        img {padding: 30px;}
+      </style>
   <img src="https://lv.qizhen.xyz/en/assets/images/z010-19045c73182c3646e2ffa91431b4604f.gif" alt="Lissajous curve represented in a 3D graph">
 </div>
 
 <div style="display: flex;">
   <div style="flex 1; background: #000fff;">
     <div align="center">
+      <style>
+        img {padding: 30px;}
+      </style>
       <p><b>Everything here is Open Source!</b></p>
       <p><b>Find me at:</b></p>
       <p>
