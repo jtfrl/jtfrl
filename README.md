@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
   
-<div align="width: 33%; display: table;">
+<div align="width: 10%; display: table;">
   <img src="https://lv.qizhen.xyz/en/assets/images/z010-19045c73182c3646e2ffa91431b4604f.gif" alt="Lissajous curve represented in a 3D graph">
 </div>
 
-<div style="width: 33%; display: table;">
+<div style="width: 40%; display: table;">
   <div style="flex 1; background: #000fff;">
     <div align="center">
       <p><b>Everything here is Open Source!</b></p>
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
     </p>
     </div>
   </div>
-  <div style="width: 33%; display: table;">
+  <div style="width: 45%; display: table;">
     <p align="center">
     <a href="https://github.com/jtfrl">
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jtfrl&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
