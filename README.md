@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  
+<table>
 <div align="width: 10%; display: table;">
   <img src="https://lv.qizhen.xyz/en/assets/images/z010-19045c73182c3646e2ffa91431b4604f.gif" alt="Lissajous curve represented in a 3D graph">
 </div>
@@ -40,13 +40,14 @@ Here are some ideas to get you started:
   </div>
   <div style="width: 45%; display: table;">
     <p align="center">
+  </table>
+
+  <p align "center">
     <a href="https://github.com/jtfrl">
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jtfrl&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jtfrl&layout=compact&langs_count=8&theme=algolia"/>
     </a>
-    </p>
-  </div>
-</div>
+   </p>
 
 _english below_ 
 
