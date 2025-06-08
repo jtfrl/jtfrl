@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 <table>
   <tr>
-    <td align="50%" valign="top">
+    <td width="50%" valign="top">
       <!-- GIF Section-->
+      <div>
       <img src="https://lv.qizhen.xyz/en/assets/images/z010-19045c73182c3646e2ffa91431b4604f.gif" alt="Lissajous curve represented in a 3D graph">
     </div>  
     <td width="50%" valign="top">
@@ -35,17 +36,16 @@ Here are some ideas to get you started:
           </a>
           <img src="https://komarev.com/ghpvc/?username=jtfrl&color=red" alt="Profile Views">
         </div>
-    </td>
-  </tr>
-</table>
-<div align="center">
-  <a href="https://github.com/jtfrl">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jtfrl&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/jtfrl">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jtfrl&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</div>
+  </table>
+  <div align="center">
+    <a href="https://github.com/jtfrl">
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jtfrl&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    </a>
+    <a href="https://github.com/jtfrl">
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jtfrl&layout=compact&langs_count=8&theme=algolia"/>
+    </a>
+  </div>
+</td>
 
     
 _english below_ 
