@@ -27,21 +27,20 @@ Here are some ideas to get you started:
         <div align="center">
           <p><b>Everything here is Open Source!</b></p>
           <p><b>Find me at:</b></p>
-        </div>
-        <div align="center">
           <a href="https://www.linkedin.com/in/jefferson-tafarel-687426163/">
             <img src="https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue" alt="LinkedIn">
           </a>
           <a href="https://mailhide.io/e/spXNGEaz">
             <img src="https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white" alt="Email">
           </a>
+          <br>
           <img src="https://komarev.com/ghpvc/?username=jtfrl&color=red" alt="Profile Views">
-        </div>
-  </table>
-  <div align="center">
+        
+  =      <br><br>
     <a href="https://github.com/jtfrl">
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jtfrl&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     </a>
+    <br>
     <a href="https://github.com/jtfrl">
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jtfrl&layout=compact&langs_count=8&theme=algolia"/>
     </a>
