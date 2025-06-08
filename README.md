@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 <table>
   <tr>
-    <td width="50%" height="10%" valign="top">
+    <td width="50%" valign="middle">
       <!-- GIF Section-->
-      <div>
+      <div align="center">
       <img src="https://lv.qizhen.xyz/en/assets/images/z010-19045c73182c3646e2ffa91431b4604f.gif" alt="Lissajous curve represented in a 3D graph" style="margin: 10px;" witdh="200">
     </div>  
     </td>
