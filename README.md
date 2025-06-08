@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" height="50%" valign="top">
       <!-- GIF Section-->
       <div>
       <img src="https://lv.qizhen.xyz/en/assets/images/z010-19045c73182c3646e2ffa91431b4604f.gif" alt="Lissajous curve represented in a 3D graph">
@@ -35,8 +35,7 @@ Here are some ideas to get you started:
           </a>
           <br>
           <img src="https://komarev.com/ghpvc/?username=jtfrl&color=red" alt="Profile Views">
-        
-  =      <br><br>
+      <br><br>
     <a href="https://github.com/jtfrl">
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jtfrl&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     </a>
