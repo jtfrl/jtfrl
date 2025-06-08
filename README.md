@@ -14,41 +14,38 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <table>
-<div align="width: 10%; display: table;">
-  <img src="https://lv.qizhen.xyz/en/assets/images/z010-19045c73182c3646e2ffa91431b4604f.gif" alt="Lissajous curve represented in a 3D graph">
+  <tr>
+    <div align="width: 45%; display: valign="top">
+      <!-- GIF Section-->
+      <img src="https://lv.qizhen.xyz/en/assets/images/z010-19045c73182c3646e2ffa91431b4604f.gif" alt="Lissajous curve represented in a 3D graph">
+    </div>  
+    <td width="50%" valign="top">
+      <!-- Contact Information -->
+        <div align="center">
+          <p><b>Everything here is Open Source!</b></p>
+          <p><b>Find me at:</b></p>
+        </div>
+        <div align="center">
+          <a href="https://www.linkedin.com/in/jefferson-tafarel-687426163/">
+            <img src="https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue" alt="LinkedIn">
+          </a>
+          <a href="https://mailhide.io/e/spXNGEaz">
+            <img src="https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+          </a>
+          <img src="https://komarev.com/ghpvc/?username=jtfrl&color=red" alt="Profile Views">
+        </div>
+    </td>
+  </tr>
+</table>
+<div align="center">
+  <a href="https://github.com/jtfrl">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jtfrl&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jtfrl&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </div>
 
-<div style="width: 25%; display: table;">
-  <div style="flex 1; background: #000fff;">
-    <div align="center">
-      <p><b>Everything here is Open Source!</b></p>
-      <p><b>Find me at:</b></p>
-      <p>
-    </div>
-    <div align="center">
-      <a href="https://www.linkedin.com/in/jefferson-tafarel-687426163/">
-        <img src="https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue" alt="LinkedIn">
-      </a>
-      <a href="https://mailhide.io/e/spXNGEaz">
-        <img src="https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-      </a>
-      <img src="https://komarev.com/ghpvc/?username=jtfrl&color=red" alt="Profile Views">
-    </p>
-    </div>
-  </div>
-  <div style="width: 25%; display: table;">
-    <p align="center">
-  </table>
-
-  <p align "center">
-    <a href="https://github.com/jtfrl">
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jtfrl&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jtfrl&layout=compact&langs_count=8&theme=algolia"/>
-    </a>
-   </p>
-
+    
 _english below_ 
 
 Esse sou eu, Jefferson Tafarel. Sou jornalista de formação e busco agora aprimorar minhas habilidades em programação, com foco em ciência de dados. No momento, estou 'namorando' meu interesse em ciência da computação também — números/matemática no geral me atraem bastante 😅
