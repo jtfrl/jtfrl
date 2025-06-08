@@ -18,8 +18,8 @@ Here are some ideas to get you started:
   <tr>
     <td width="50%" height="10%" valign="top">
       <!-- GIF Section-->
-      <div align-"center" style="padding: 40px;">
-      <img src="https://lv.qizhen.xyz/en/assets/images/z010-19045c73182c3646e2ffa91431b4604f.gif" alt="Lissajous curve represented in a 3D graph">
+      <div>
+      <img src="https://lv.qizhen.xyz/en/assets/images/z010-19045c73182c3646e2ffa91431b4604f.gif" alt="Lissajous curve represented in a 3D graph" style="margin: 10px;" witdh="200">
     </div>  
     </td>
     <td width="50%" valign="top">
