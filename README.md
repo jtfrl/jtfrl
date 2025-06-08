@@ -21,6 +21,7 @@ Here are some ideas to get you started:
       <div>
       <img src="https://lv.qizhen.xyz/en/assets/images/z010-19045c73182c3646e2ffa91431b4604f.gif" alt="Lissajous curve represented in a 3D graph">
     </div>  
+    </td>
     <td width="50%" valign="top">
       <!-- Contact Information -->
         <div align="center">
@@ -46,6 +47,8 @@ Here are some ideas to get you started:
     </a>
   </div>
 </td>
+</tr>
+</table>
 
     
 _english below_ 
