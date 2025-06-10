@@ -53,7 +53,8 @@ _english below_
 
 Esse sou eu, Jefferson Tafarel. Sou jornalista de formação e busco agora aprimorar minhas habilidades em programação, com foco em ciência de dados. No momento, estou 'namorando' meu interesse em ciência da computação também — números/matemática no geral me atraem bastante 😅. Curso Bacharelado em Tecnologia da Informação na UFRN, especificamente no Instituto Metrópole Digital (IMD).
 
-![Java](https://www.logo.wine/a/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.svg)
+<img src="https://www.logo.wine/a/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.svg" alt="Java Logo" width="10" height="10">
+<!--![Java](https://www.logo.wine/a/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.svg)-->
 ![C++](https://img.shields.io/badge/-C%2B%2B-C%2B%2B?style=for-the-badge&logo=c%2B%2B&logoColor=blue&labelColor=%23151000&color=maroon) 
 
 
