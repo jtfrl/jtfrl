@@ -51,9 +51,12 @@ Here are some ideas to get you started:
     
 _english below_ 
 
-Esse sou eu, Jefferson Tafarel. Sou jornalista de formação e busco agora aprimorar minhas habilidades em programação, com foco em ciência de dados. No momento, estou 'namorando' meu interesse em ciência da computação também — números/matemática no geral me atraem bastante 😅
+Esse sou eu, Jefferson Tafarel. Sou jornalista de formação e busco agora aprimorar minhas habilidades em programação, com foco em ciência de dados. No momento, estou 'namorando' meu interesse em ciência da computação também — números/matemática no geral me atraem bastante 😅. Curso Bacharelado em Tecnologia da Informação na UFRN, especificamente no Instituto Metrópole Digital (IMD).
 
-Curso Bacharelado em Tecnologia da Informação na UFRN, especificamente no Instituto Metrópole Digital (IMD). Meu exercício preferido na academia é rosca bayesian, amo gatos e ouço uma dessas três bandas diariamente: Fontaines D.C., Boogarins e Interpol (à propósto: meu nome tem jogador de futebol, mas não curto o esporte). Apesar de Python ser minha linguagem preferida, C++ tem ganhado um cantinho no meu <3
+![C++](https://img.shields.io/badge/-C%2B%2B-C%2B%2B?style=for-the-badge&logo=c%2B%2B&logoColor=blue&labelColor=%23151000&color=maroon) 
+
+
+Meu exercício preferido na academia é rosca bayesian, amo gatos e ouço uma dessas três bandas diariamente: Fontaines D.C., Boogarins e Interpol (à propósto: meu nome tem jogador de futebol, mas não curto o esporte). Apesar de Python ser minha linguagem preferida, C++ tem ganhado um cantinho no meu <3
 
 ```C++
 #include <string> 
