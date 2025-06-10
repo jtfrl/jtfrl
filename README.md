@@ -53,9 +53,9 @@ _english below_
 
 Esse sou eu, Jefferson Tafarel. Sou jornalista de formação e busco agora aprimorar minhas habilidades em programação, com foco em ciência de dados. No momento, estou 'namorando' meu interesse em ciência da computação também — números/matemática no geral me atraem bastante 😅. Curso Bacharelado em Tecnologia da Informação na UFRN, especificamente no Instituto Metrópole Digital (IMD).
 
-![C++](https://img.shields.io/badge/-C%2B%2B-C%2B%2B?style=for-the-badge&logo=c%2B%2B&logoColor=blue&labelColor=%23151000&color=maroon) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
+![Java]([https://example.com/path-to-java-logo.png](https://images.seeklogo.com/logo-png/15/2/java-logo-png_seeklogo-158094.png)
+![C++](https://img.shields.io/badge/-C%2B%2B-C%2B%2B?style=for-the-badge&logo=c%2B%2B&logoColor=blue&labelColor=%23151000&color=maroon) 
 
 
 Meu exercício preferido na academia é rosca bayesian, amo gatos e ouço uma dessas três bandas diariamente: Fontaines D.C., Boogarins e Interpol (à propósto: meu nome tem jogador de futebol, mas não curto o esporte). Apesar de Python ser minha linguagem preferida, C++ tem ganhado um cantinho no meu <3
