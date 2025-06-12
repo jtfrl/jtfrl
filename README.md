@@ -54,7 +54,10 @@ _english below_
 Esse sou eu, Jefferson Tafarel. Sou jornalista de formação e busco agora aprimorar minhas habilidades em programação, com foco em ciência de dados. No momento, estou 'namorando' meu interesse em ciência da computação também — números/matemática no geral me atraem bastante 😅. Curso Bacharelado em Tecnologia da Informação na UFRN, especificamente no Instituto Metrópole Digital (IMD).
 
 <p align="center"
-<img src="https://www.logo.wine/a/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.svg" alt="Java Logo" width="50" height="50"> ![C++](https://img.shields.io/badge/-C%2B%2B-C%2B%2B?style=for-the-badge&logo=c%2B%2B&logoColor=blue&labelColor=%23151000&color=maroon) ![C](https://img.shields.io/badge/C-white?style=for-the-badge&logo=c&logoColor=CadetBlue&labelColor=brown&color=darkblue) ![Python](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=dodgerblue&labelColor=brown&color=darkorange) ![Jupyter](https://img.shields.io/badge/jupyter-white?style=for-the-badge&logo=jupyter&logoColor=darkolivegreen&labelColor=coral&color=cornsilk) ![JavaScript](https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=grey&color=indianred)
+<img src="https://www.logo.wine/a/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.svg" alt="Java Logo" width="50" height="50">  <img src="https://img.shields.io/badge/-C%2B%2B-C%2B%2B?style=for-the-badge&logo=c%2B%2B&logoColor=blue&labelColor=%23151000&color=maroon"> <img src="https://img.shields.io/badge/C-white?style=for-the-badge&logo=c&logoColor=CadetBlue&labelColor=brown&color=darkblue">
+<img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=dodgerblue&labelColor=brown&color=darkorange">
+<img src="https://img.shields.io/badge/jupyter-white?style=for-the-badge&logo=jupyter&logoColor=darkolivegreen&labelColor=coral&color=cornsilk">
+<img src="https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=grey&color=indianred">
 </p>
 
 
@@ -72,6 +75,4 @@ int main(){
 ```
  ## MINIBIO (EN) 
 
-This is me, Jefferson Tafarel. I'm undergraduated in Journalism (so I'm a journalist) and now my goal is to upgrade my abilities in programming, focusing in data science. Currently, I have kinda of a 'crush' for computer science too — numbers/math in general interests me a lot 😅
-
-I'm also an undergraduate in Information Tech at Federal Univ of Rio Grande do Norte (UFRN) in Brazil, more specifically at Metrópole Digital Institute (IMD). My favorite gym exercise is bayesian curl, I love cats, and listen to one of these three bands daily: Fontaines D.C., Boogarins and Interpol (by the way: my name has a soccer player's name, but I don't like soccer at all). Even though Python is my favorite lang, C++ is little by little beckoning me. (_see the code above_). 
+This is me, Jefferson Tafarel. I'm undergraduated in Journalism (so I'm a journalist) and now my goal is to upgrade my abilities in programming, focusing in data science. Currently, I have kinda of a 'crush' for computer science too — numbers/math in general interests me a lot 😅. I'm also an undergraduate in Information Tech at Federal Univ of Rio Grande do Norte (UFRN) in Brazil, more specifically at Metrópole Digital Institute (IMD). Even though Python is my favorite lang, C++ is little by little beckoning me. (_see the code above_). 
