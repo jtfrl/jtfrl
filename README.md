@@ -43,10 +43,6 @@ Here are some ideas to get you started:
     <a href="https://github.com/jtfrl">
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jtfrl&layout=compact&langs_count=8&theme=algolia"/>
     </a>
-    <br>
-      <a href="https://github.com/jtfrl">
-        <img height="550" src="https://github-readme-activity-graph.vercel.app/graph?username=jtfrl&theme=tokyo-night" alt="jtfrl's Activity Graph"/>
-      </a>
   </div>
 </td>
 </tr>
@@ -64,6 +60,8 @@ Esse sou eu, Jefferson Tafarel. Sou jornalista de formação e busco agora aprim
 <img src="https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=grey&color=indianred">
 </p>
 
+  
+
 
 ```C++
 #include <string> 
@@ -77,6 +75,13 @@ int main(){
   return 0;
 } 
 ```
+
+
+<a href="https://github.com/jtfrl">
+        <img height="550" src="https://github-readme-activity-graph.vercel.app/graph?username=jtfrl&theme=tokyo-night" alt="jtfrl's Activity Graph"/>
+      </a>
+
+      
  ## MINIBIO (EN) 
 
 This is me, Jefferson Tafarel. I'm undergraduated in Journalism (so I'm a journalist) and now my goal is to upgrade my abilities in programming, focusing in data science. Currently, I have kinda of a 'crush' for computer science too — numbers/math in general interests me a lot 😅. I'm also an undergraduate in Information Tech at Federal Univ of Rio Grande do Norte (UFRN) in Brazil, more specifically at Metrópole Digital Institute (IMD). Even though Python is my favorite lang, C++ is little by little beckoning me. (_see the code above_). 
