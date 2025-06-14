@@ -45,7 +45,7 @@ Here are some ideas to get you started:
     </a>
     <br>
       <a href="https://github.com/jtfrl">
-        <img height="360" src="https://github-readme-activity-graph.vercel.app/graph?username=jtfrl&theme=tokyo-night" alt="jtfrl's Activity Graph"/>
+        <img height="550" src="https://github-readme-activity-graph.vercel.app/graph?username=jtfrl&theme=tokyo-night" alt="jtfrl's Activity Graph"/>
       </a>
   </div>
 </td>
