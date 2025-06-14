@@ -45,13 +45,13 @@ Here are some ideas to get you started:
     </a>
     <br>
       <a href="https://github.com/jtfrl">
-        <img height="360" src="https://github-readme-activity-graph.vercel.app/graph?username=jtfrl" alt="jtfrl's Activity Graph"/>
+        <img height="360" src="https://github-readme-activity-graph.vercel.app/graph?username=jtfrl&theme=tokyo-night" alt="jtfrl's Activity Graph"/>
       </a>
   </div>
 </td>
 </tr>
 </table>
-
+<!-- username=ashutosh00710&theme=theme_name -->
     
 _english below_ 
 
