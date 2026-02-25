@@ -58,6 +58,7 @@ Esse sou eu, Jefferson Tafarel. Sou jornalista de formação e busco agora aprim
 <img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=dodgerblue&labelColor=brown&color=darkorange">
 <img src="https://img.shields.io/badge/jupyter-white?style=for-the-badge&logo=jupyter&logoColor=darkolivegreen&labelColor=coral&color=cornsilk">
 <img src="https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=grey&color=indianred">
+<img src="https://img.shields.io/badge/Lua-blue?style=for-the-badge&logo=lua&logoColor=%23white&logoSize=auto&labelColor=%230000a0&color=%230000aa">
 </p>
 
   
